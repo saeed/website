@@ -40,6 +40,13 @@ JSys opens new submission forums for each deadline. Here are the links for recen
 
 ### Formatting Instructions
 
+<details>
+<summary> Click me to reveal </summary>
+This is a really cool hidden collapsible content. 
+</details>
+
+<br><br>
+
 All text and figures must fit within a 7” x 9” text block, centered on the page, using two columns with .33 inches of separation. The paper should be typeset using a 10-point font (Times New Roman or similar) with a 12-point (single-spaced) leading.
 
 The easiest (and recommended) way to follow these formatting instructions is to use the [JSys LaTeX template](#template) (see below).
